@@ -63,7 +63,7 @@ function Footer() {
       <section class='social-media'>
         <div class='social-media-wrap'>
           <div class='footer-logo'>
-            <Link to='/' className='social-logo'>
+            <Link to='#' className='social-logo'>
               CROSSY
               <i class='fab fa-typo3' />
             </Link>
@@ -80,7 +80,7 @@ function Footer() {
             </Link>
             <Link
               class='social-icon-link instagram'
-              to='/'
+              to='https://www.instagram.com/parrurox/'
               target='_blank'
               aria-label='Instagram'
             >
