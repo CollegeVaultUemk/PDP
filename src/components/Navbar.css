@@ -58,9 +58,9 @@
   height: 100%;
 }
 
-.nav-links:hover {
-  border-bottom: 4px solid #fff;
-  transition: all 0.2s ease-out;
+.nav-links:hover,:focus{
+  border-bottom: 4px solid rgb(192, 243, 6);
+  transition: all 0.15s ease-out;
 }
 
 .fa-bars {

@@ -30,6 +30,8 @@ video {
   font-size: 20px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
     'Lucida Sans', Arial, sans-serif;
+  text-shadow: black 0.1em 0.1em 0.2em;
+  backdrop-filter: blur(6px);
 }
 
 .hero-btns {
